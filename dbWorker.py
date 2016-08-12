@@ -2,7 +2,7 @@ from elasticsearch import Elasticsearch
 
 class DB_Helper():
     def elasticIndex(self, requiredBody):
-        es = Elasticsearch(hosts='vr2.bintime.com:9200')
+        es = Elasticsearch(hosts='.com:9200')
         productName = es.search(index='dev_erp_product_delete_fifo', body=requiredBody)
         return productName
 
