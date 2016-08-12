@@ -1,4 +1,4 @@
-prodManagementURL = 'http://dev:q1w2e3r4@vr2.bintime.com/product/producttool/index'
+prodManagementURL = 'http://com/product/producttool/index'
 
 
 searchManagementButton = './/button[@class="search_button btn btn-gepard-wide btn-gepard-default btn-default"]'
