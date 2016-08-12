@@ -1,4 +1,4 @@
-createProductURL = "http://dev:q1w2e3r4@vr2.bintime.com/product/producttool/addproduct"
+createProductURL = "http://.com/product/producttool/addproduct"
 
 
 loginButton = './/input[@class="btn btn-gepard-default"]'
