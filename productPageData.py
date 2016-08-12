@@ -1,4 +1,4 @@
-productPageURL = 'http://dev:q1w2e3r4@vr2.bintime.com/product/producttool/changeproduct/'
+productPageURL = 'http://com/product/producttool/changeproduct/'
 
 mpnPath = ".//*[@id='basic']//div[3]/div[1]/label[2]"
 
